@@ -15,7 +15,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "123456789"
+      "value": "1234567890"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
